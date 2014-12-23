@@ -49,6 +49,7 @@ public class MainUI
 	 */
 	public static void main(String[] args)
 	{
+		System.out.println("hello GitHub");
 		final JFrame frame = new JFrame();
 		JTextField textField;
 		final JPasswordField passwordField;
